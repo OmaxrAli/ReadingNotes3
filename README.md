@@ -12,4 +12,10 @@ The (IT) field needs a good thinking evolving mind to keep track with changes an
 
 welcome to my ***new Reading Notes*** page here i will be showing you new other **Readings** to inform you more about the IT field.
 
++ Introduction to React and Components
++ Subject
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Introduction to React and Components    | [URL]()         |
+| Subject     | URL         |
